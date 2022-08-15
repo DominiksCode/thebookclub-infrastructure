@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.pyc/*
+.venv/*
+bin/*
+lib/*
+cdk.out/*
